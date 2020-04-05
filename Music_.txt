@@ -9,8 +9,5 @@ CreationTime   : 1/5/2016 7:34:16 AM
 LastWriteTime  : 1/5/2016 3:56:02 PM
 LastAccessTime : 1/5/2016 3:56:02 PM
 
-<<<<<<< HEAD
-changed march26 10:33
-changed march26 10:38 directly in git
-changed in remote
-changed in remote subbranch
+
+changed remote 5th April folder
